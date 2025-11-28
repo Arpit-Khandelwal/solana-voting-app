@@ -1,0 +1,6 @@
+[submodule "anchor-voting-app"]
+	path = anchor-voting-app
+	url = https://github.com/Arpit-Khandelwal/anchor-voting-app
+[submodule "voting-dapp-fe"]
+	path = voting-dapp-fe
+	url = https://github.com/Arpit-Khandelwal/voting-dapp-fe
